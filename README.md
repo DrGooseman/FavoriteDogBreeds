@@ -1,3 +1,14 @@
+INSTRUCTIONS FOR RUNNING
+
+Download this project from github.
+Open the project folder and open a command line tool there.
+type "npm i" to install the project dependencies.
+then type "npm start", which will launch the site in your default browser.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
