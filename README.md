@@ -1,9 +1,13 @@
 INSTRUCTIONS FOR RUNNING
 
-Download this project from github.
-Open the project folder and open a command line tool there.
-type "npm i" to install the project dependencies.
-then type "npm start", which will launch the site in your default browser.
+-Download this project from github.
+
+-Open the project folder and open a command line tool there.
+
+-type "npm i" to install the project dependencies.
+
+-then type "npm start", which will launch the site in your default browser.
+
 
 
 
